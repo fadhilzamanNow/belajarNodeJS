@@ -1,0 +1,1 @@
+ini adalah text gabungan yang menggabungkan This is the first + this is the second
